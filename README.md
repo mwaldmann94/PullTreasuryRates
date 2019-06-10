@@ -1,2 +1,2 @@
 # PullTreasuryRates
-API in python to pull US Treasury Rates
+Webscrape in python to retrieve US Treasury Rates
